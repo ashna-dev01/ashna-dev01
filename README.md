@@ -1,16 +1,56 @@
-## Hi there 👋
+### 👋 Hi, I'm Ashna Saleem
 
-<!--
-**ashna-dev01/ashna-dev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a B.Sc. Computer Science (Honours) student passionate about building practical web applications and continuously improving my development skills. I enjoy learning new technologies and creating projects that strengthen my understanding of full stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+* **B.Sc. Computer Science (Honours)**
+* Mahatma Gandhi University
+
+---
+
+## 💻 Tech Stack
+
+* **Languages:** Python, HTML, CSS, JavaScript,R,java,C
+* **Frameworks:** Flask
+* **Database:** SQLite
+* **Tools:** Git, GitHub, VS Code
+* **Currently Learning:** Python Full Stack Web Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+
+A responsive portfolio website showcasing my skills, projects, and contact information.
+
+### 📝 Blog Content Management System *(In Progress)*
+
+A Flask-based Blog CMS featuring CRUD functionality, SQLite integration, and responsive templates.
+
+---
+
+## 🌱 Currently Learning
+
+* Flask Development
+* JavaScript
+* SQL
+* Git & GitHub Best Practices
+* Full Stack Web Development
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: *(Add your LinkedIn URL)*
+* 🌐 Portfolio: *(Add your portfolio URL)*
+* 📧 Email: *(Add your professional email)*
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
