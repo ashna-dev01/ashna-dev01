@@ -48,7 +48,7 @@ A Flask-based Blog CMS featuring CRUD functionality, SQLite integration, and res
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: *www.linkedin.com/in/ashna-saleem*
-* 🌐 Portfolio: *(Add your portfolio URL)*
+* 🌐 Portfolio: *https://ashna-dev01.github.io/developer-portfolio/*
 * 📧 Email: *ashnasaleem25@gmail.com*
 
 ---
